@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696507966 source:c:\users\23005247\documents\cpp\exercicio4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+
